@@ -20,6 +20,7 @@ f1:{`P set L;
 
 
 L:read0 `:file.txt
+//L:read0 `:fileTwo.txt
 
 \c 1000 1000
 
